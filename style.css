@@ -1,0 +1,20 @@
+* {
+    background-color: lightyellow;
+}
+
+.images {
+    display: grid;
+    place-items: center;
+}
+
+#title {
+    color: crimson;
+    font-size: 75px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes {
+    color: darkred;
+    text-align: justify;
+}
